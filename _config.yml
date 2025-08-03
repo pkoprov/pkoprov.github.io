@@ -19,6 +19,11 @@ author:
     - label: "CV"
       url: "/cv/"
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 header_pages:
   - about.md
   - cv.md
