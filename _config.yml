@@ -2,8 +2,9 @@ title: "Dr. Pavel Koprov"
 email: "koprovp@gmail.com"
 description: >- 
   Senior R&D Engineer | Robotics | Digital Twins | Industrial AI
-baseurl: "" 
+baseurl: ""
 url: "https://pkoprov.github.io"
+remote_theme: "mmistakes/minimal-mistakes"
 
 author:
   name: "Pavel Koprov"
