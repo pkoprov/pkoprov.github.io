@@ -1,8 +1,13 @@
 ---
+layout: single
+title: "About Me"
 permalink: /about/
-title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm Dr. Pavel Koprov — a Senior R&D Engineering Specialist at The Dow Chemical Company, where I lead robotics and automation innovation within the Lab Automation group. My passion lies at the intersection of **digital twins**, **robotics**, and **industrial AI**.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I earned my Ph.D. in Industrial Engineering from North Carolina State University, where my research focused on implementing advanced IIoT protocols and NVIDIA Omniverse to develop scalable, real-time digital twins for small and medium-sized manufacturers. My work bridges the gap between academic innovation and real-world manufacturing needs.
+
+Beyond the lab, I actively engage in academic and industrial communities through publishing, presenting, and mentoring. I served as president of the SME NCSU Student Chapter and continue to contribute to the advancement of manufacturing automation in the U.S.
+
+This site is an evolving showcase of my research, publications, and personal projects. Welcome!
