@@ -1,17 +1,20 @@
 title: "Dr. Pavel Koprov"
+email: "koprovp@gmail.com"
 description: >- 
-  Senior R&D Engineering Specialist at The Dow Chemical Company | Robotics | Digital Twins | Industrial AI
+  Senior R&D Engineer | Robotics | Digital Twins | Industrial AI
+baseurl: "" 
 url: "https://pkoprov.github.io"
+
 author:
   name: "Pavel Koprov"
-  avatar: "/assets/images/yourphoto.jpg"  # (Optional)
   bio: "Senior R&D Engineering Specialist at The Dow Chemical Company  | PhD in Industrial Engineering: Advanced Manufacturing"
+  avatar: "/assets/images/yourphoto.jpg"
   links:
-    - label: "CV"
-      url: "/cv/"
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/pkoprov/"
     - label: "GitHub"
       url: "https://github.com/pkoprov"
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=2CrRfwsAAAAJ"
+      url: "https://scholar.google.com/citations?user=YOUR_ID"
+    - label: "CV"
+      url: "/cv/"
