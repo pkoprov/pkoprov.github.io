@@ -4,7 +4,6 @@ description: >-
   Senior R&D Engineer | Robotics | Digital Twins | Industrial AI
 baseurl: ""
 url: "https://pkoprov.github.io"
-remote_theme: "mmistakes/minimal-mistakes"
 
 author:
   name: "Pavel Koprov"
