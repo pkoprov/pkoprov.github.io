@@ -18,3 +18,17 @@ author:
       url: "https://scholar.google.com/citations?user=YOUR_ID"
     - label: "CV"
       url: "/cv/"
+
+header_pages:
+  - about.md
+  - cv.md
+  - projects.md
+  - publications.md
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
