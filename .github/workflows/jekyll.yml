@@ -31,6 +31,17 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Download built site artifact (diagnostic)
+        id: download_artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: github-pages
+
+      - name: List artifact contents (diagnostic)
+        run: |
+          echo "Listing downloaded artifact files:"
+          ls -la
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
